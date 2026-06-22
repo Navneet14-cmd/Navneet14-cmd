@@ -20,7 +20,7 @@ Building projects in AI, Full-Stack Development, and Cloud Technologies 🚀
 
 ---
 
-## 💫 About Me
+## 💫 ABOUT ME
 
 - 🎓 B.Tech CSE Student at **UPES Dehradun**
 - 🌱 Currently learning **Data Structures & Algorithms**
