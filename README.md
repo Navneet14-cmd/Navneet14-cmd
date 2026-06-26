@@ -57,14 +57,13 @@ Building projects in AI, Full-Stack Development, and Cloud Technologies 🚀
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navneet14-cmd&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Navneet14-cmd&show_icons=true&theme=tokyonight&hide=stars" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet14-cmd&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Navneet14-cmd&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Navneet14-cmd&theme=tokyonight" />
 </p>
 
 ---
