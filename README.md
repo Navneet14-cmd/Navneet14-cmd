@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navneet Pant</h1>
+<h1 align="center">Hi 👋, I'm Navneet Pant (Navansh)</h1>
 <h3 align="center">B.Tech CSE Student | Software Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
