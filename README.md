@@ -73,9 +73,6 @@ Building projects in AI, Full-Stack Development, and Cloud Technologies 🚀
 ### 🌩️ Cloud Craver
 Infrastructure template generator and validator for AWS, Azure, and GCP using Terraform.
 
-### 📱 Scanify
-Cross-platform QR Code Generator built with React Native & Expo.
-
 ### 🤖 Methane Plume Detection
 Research project with IIRS/ISRO using Deep Learning and Remote Sensing imagery.
 
