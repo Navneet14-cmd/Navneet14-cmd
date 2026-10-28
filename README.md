@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f172a,100:1e3a8a&amp;height=120&amp;section=header&amp;text=Navneet%20Pant&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=50&amp;desc=Software%20Developer%20%C2%B7%20AI%20%26%20Cloud&amp;descSize=16&amp;descAlignY=75" width="100%" alt="Navneet Pant"/>
-
 I'm a B.Tech CSE student at **UPES, Dehradun**, building across full-stack development, cloud infrastructure, and applied AI. I like turning ideas into working, deployable software, from Terraform-driven infrastructure to deep learning on satellite imagery.
 
 <br/>
