@@ -30,7 +30,7 @@ I'm a B.Tech CSE student at **UPES, Dehradun**, building across full-stack devel
         <li><b>Integrations</b>: git repositories, MCP servers and IDE agent workflows to keep diagrams in sync with code</li>
       </ul>
       <p><img src="https://img.shields.io/badge/Diagram_as_Code-1E3A8A?style=flat-square"/> <img src="https://img.shields.io/badge/AI_Generation-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Infinite_Canvas-0F172A?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-181717?style=flat-square"/></p>
-      <a href="https://github.com/Navneet14-cmd/REPO-NAME-HERE">View repository →</a>
+      <a href="https://github.com/Navneet14-cmd/diagram-studio">View repository →</a>
     </td>
   </tr>
   <tr>
@@ -38,13 +38,13 @@ I'm a B.Tech CSE student at **UPES, Dehradun**, building across full-stack devel
       <h3>🌩️ Cloud Craver</h3>
       <p>Generates and validates infrastructure templates for <b>AWS, Azure and GCP</b> using Terraform, so teams can go from idea to a valid, reviewable config quickly.</p>
       <p><img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=FF9900"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&amp;logo=googlecloud&amp;logoColor=white"/></p>
-      <a href="https://github.com/Navneet14-cmd/REPO-NAME-HERE">View repository →</a>
+      <a href="https://github.com/Navneet14-cmd/OSoC-25-Cloud-Craver">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛰️ Methane Plume Detection</h3>
       <p>Research project with <b>IIRS / ISRO</b> applying deep learning to remote sensing imagery to detect methane plumes.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=flat-square"/></p>
-      <a href="https://github.com/Navneet14-cmd/REPO-NAME-HERE">View repository →</a>
+      <a href="https://github.com/Navneet14-cmd/RWMethaneP">View repository →</a>
     </td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ I'm a B.Tech CSE student at **UPES, Dehradun**, building across full-stack devel
         <li><b>Test-friendly</b>: inject a plain dict instead of the real environment</li>
       </ul>
       <p><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Dependencies-none-2E7D32?style=flat-square"/> <img src="https://img.shields.io/badge/Typed-100%25-1E3A8A?style=flat-square"/></p>
-      <a href="https://github.com/Navneet14-cmd/REPO-NAME-HERE">View repository →</a>
+      <a href="https://github.com/Navneet14-cmd/NapGuard">View repository →</a>
     </td>
   </tr>
 </table>
@@ -91,12 +91,20 @@ I'm a B.Tech CSE student at **UPES, Dehradun**, building across full-stack devel
 
 <br/>
 
+## Contribution Game
+
+<p align="center">
+  <img src="game.gif" alt="My GitHub contributions as a space shooter game" width="100%"/>
+</p>
+
+<br/>
+
 ## Let's Connect
 
 <p>
   <a href="https://github.com/Navneet14-cmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL-HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/navneet-pant14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+  <a href="mailto:navneetpant007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
   <a href="https://instagram.com/navanshhh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
 </p>
 
