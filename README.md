@@ -1,83 +1,72 @@
-<h1 align="center">Hi 👋, I'm Navneet Pant (Navansh)</h1>
-<h3 align="center">B.Tech CSE Student | Software Developer | AI & Cloud Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=120&section=header&text=Navneet%20Pant&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Software%20Developer%20%C2%B7%20AI%20%26%20Cloud&descSize=16&descAlignY=75" width="100%" alt="Navneet Pant"/>
+
+I'm a B.Tech CSE student at **UPES, Dehradun**, building across full-stack development, cloud infrastructure, and applied AI. I like turning ideas into working, deployable software, from Terraform-driven infrastructure to deep learning on satellite imagery.
+
+<br>
+
+## Currently
+
+- 🔭 Working on **Cloud Craver**, a multi-cloud infrastructure template generator
+- 🛰️ Researching methane plume detection with **IIRS / ISRO**
+- 📚 Sharpening **Data Structures & Algorithms**
+- ☁️ Going deeper into **AWS** and **DevOps**
+- 🤝 Open to collaborating on impactful projects
+
+<br>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌩️ Cloud Craver</h3>
+      <p>Generates and validates infrastructure templates for <b>AWS, Azure and GCP</b> using Terraform, so teams can go from idea to a valid, reviewable config quickly.</p>
+      <p><img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></p>
+      <a href="https://github.com/Navneet14-cmd/REPO-NAME-HERE">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ Methane Plume Detection</h3>
+      <p>Research project with <b>IIRS / ISRO</b> applying deep learning to remote sensing imagery to detect methane plumes.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=flat-square"/></p>
+      <a href="https://github.com/Navneet14-cmd/REPO-NAME-HERE">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+**Languages**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java,python,c,js&perline=8" align="center"/>
+
+**Frontend**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&perline=8" align="center"/>
+
+**Backend & Data**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres&perline=8" align="center"/>
+
+**Cloud & Tools**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws,terraform,git,github&perline=8" align="center"/>
+
+<br>
+
+## GitHub Stats
 
 <p align="center">
-Building projects in AI, Full-Stack Development, and Cloud Technologies 🚀
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Navneet14-cmd&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet14-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
----
+<br>
 
-## 🌐 Connect With Me
+## Let's Connect
 
-<p align="center">
-<a href="https://instagram.com/navanshhh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/Navneet14-cmd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/Navneet14-cmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL-HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/navanshhh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
-
-## 💫 ABOUT ME
-
-- 🎓 B.Tech CSE Student at **UPES Dehradun**
-- 🌱 Currently learning **Data Structures & Algorithms**
-- ☁️ Exploring **Cloud Computing, AWS, and DevOps**
-- 🤖 Interested in **AI/ML and Computer Vision**
-- 🚀 Building projects with **React, Node.js, MongoDB, and Python**
-- 📌 Open to collaboration on impactful projects
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navneet14-cmd&show_icons=true&theme=tokyonight&hide=stars" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet14-cmd&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navneet14-cmd&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌩️ Cloud Craver
-Infrastructure template generator and validator for AWS, Azure, and GCP using Terraform.
-
-### 🤖 Methane Plume Detection
-Research project with IIRS/ISRO using Deep Learning and Remote Sensing imagery.
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Navneet14-cmd&icon=5&color=6"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=50&section=footer" width="100%" alt=""/>
